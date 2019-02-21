@@ -5,3 +5,6 @@ Im saving this info from the visual code
 Hello World OKay :)
 Developing Tools
 Coding
+Life
+Nice
+Hello
